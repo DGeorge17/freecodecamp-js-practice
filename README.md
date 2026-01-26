@@ -24,8 +24,7 @@ programming through freeCodeCamp.
  ### Build a Sentence Maker (Lab)
 Description
 JavaScript practice project from FreeCodeCamp to build dynamic stories using variables and string concatenation. The second story follows the same logic with new variable values and is printed with console.log.
-
-Learnings
-- Declare and reassign variables.
-- Concatenate strings correctly.
-- Ensure spaces and formatting match FreeCodeCamp tests.
+- Learnings:
+  - Declare and reassign variables.
+  - Concatenate strings correctly.
+  - Ensure spaces and formatting match FreeCodeCamp tests.
