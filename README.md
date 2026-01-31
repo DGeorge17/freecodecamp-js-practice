@@ -30,5 +30,9 @@ JavaScript practice project from FreeCodeCamp to build dynamic stories using var
   - Ensure spaces and formatting match FreeCodeCamp tests.
 
  ### Build a Teacher Chatbot (Workshop)
- In this workshop project, I built a Teacher Chatbot using JavaScript to simulate structured responses based on user input. The project focuses on applying conditional logic, functions, and string manipulation to create clear and consistent interactions.
-This workshop strengthened my understanding of control flow and basic chatbot design, while emphasizing clean, readable, and well-structured JavaScript code.
+ In this workshop project, I built a Teacher Chatbot using JavaScript that simulates structured responses based on user input. The main focus was practicing core JavaScript fundamentals through a simple chatbot logic.
+- Key concepts applied:
+  - Variables.
+  - Bracket Notation.
+  - String, string interpolation and substring.
+  - Template literals.
