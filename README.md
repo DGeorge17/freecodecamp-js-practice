@@ -38,5 +38,5 @@ JavaScript practice project from FreeCodeCamp to build dynamic stories using var
   - Template literals.
  ### Build a String Inspector (Workshop)
  In this workshop I learned how to use:
-  - includes().
-  - slice().
+  - includes( ).
+  - slice( ).
