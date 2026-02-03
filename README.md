@@ -36,3 +36,7 @@ JavaScript practice project from FreeCodeCamp to build dynamic stories using var
   - Bracket Notation.
   - String, string interpolation and substring.
   - Template literals.
+ ### Build a String Inspector (Workshop)
+ In this workshop I learned how to use:
+  - includes().
+  - slice().
