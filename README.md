@@ -40,3 +40,7 @@ JavaScript practice project from FreeCodeCamp to build dynamic stories using var
  In this workshop I learned how to use:
   - includes ( ).
   - slice ( ).
+ ### Build a String Formatter (Workshop)
+I applied these new methods: 
+  - toUpperCase( )and toLowerCase( ).
+  - trim( ), trimStart( ), and trimEnd( ).
